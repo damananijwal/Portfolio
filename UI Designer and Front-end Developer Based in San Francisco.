@@ -153,18 +153,19 @@
 					<div class="vertical-center">
 						<div class="started-content">
 							<h1 class="h-title">
-								Hello, I’m <strong>Alejandro Abeyta</strong>, UX/UI Designer and <br />
-								Front-end Developer Based in San Francisco.
+								Hello, I’m <strong>Daman Anijwal</strong>, Graphic Designer and <br />
+								Fineart Artist with creative mind.
 							</h1>
 							<div class="h-subtitle typing-subtitle">
-								<p>I code cool <strong>websites</strong></p>
-								<p>I develop <strong>mobile apps</strong></p>
-								<p>I love <strong>wordpress</strong></p>
+								<p>I make <strong>social media posts</strong></p>
+								<p>I create <strong>web banners</strong></p>
+								<p>I design <strong>ad creatives</strong></p>
+								<p>I create <strong>product packaging</strong></p>
 							</div>
 							<span class="typed-subtitle"></span>
 						</div>
 					</div>
-				</div>
+				</div
 
 			</div>
 
@@ -174,7 +175,8 @@
 		<footer class="footer">
 			<div class="copy">
 				<p>E: damananijwal@gmail.com</p>
-				<p>T: +91 7290800808</p>
+				<p>T: +91 9315030364 <br />
+				      +91 7290800808</p>
 			</div>
 			<div class="soc-box">
 				<div class="follow-label">Follow Me</div>
