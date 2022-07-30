@@ -637,12 +637,13 @@
 .section.started .started-content .h-title {
 	margin: 0;
 	position: absolute;
-	left: calc(20% + 35px);
+	left: calc(35% + 35px);
 	bottom: 50px;
 	max-width: 560px;
 	font-size: 20px;
 	font-weight: 300;
 	color: #FFF;
+	text-align:center;
 	word-break: break-word;
 	-ms-word-wrap: break-word;
 	word-wrap: break-word;
