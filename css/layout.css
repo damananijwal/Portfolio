@@ -137,7 +137,7 @@
 
 .header .top-menu ul {
 	margin: 0;
-	margin-right: -170px;
+	margin-right: -14%;
 	padding: 0;
 	list-style: none;
 	width: 200px;
@@ -389,6 +389,15 @@
 
 /* header tablet */
 @media (max-width: 1199px) {
+	
+	.header .top-menu ul {
+	margin: 0;
+	margin-right: -24%;
+	padding: 0;
+	list-style: none;
+	width: 200px;
+    float: right;
+}
 	.header .logo {
 		position: relative;
 		top: 0;
